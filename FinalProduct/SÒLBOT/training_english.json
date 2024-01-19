@@ -1,0 +1,104 @@
+[
+    {
+        "main_category": "Bonds",
+        "question": "I am a tenant and have left the apartment",
+        "answer": "As part of the contract, you can make an inquiry about the status of the bond to find out if the bond was deposited with Incasòl during the contract's validity. Additionally, you can claim the bond amount by initiating legal actions against the landlord. Regarding these, as a general rule, the claim for the bond from the tenant to the landlord is made through a verbal trial as long as the claim does not exceed 6,000€. The corresponding lawsuit must be filed with the court in the locality where the leased property is located.",
+        "id": "0013"
+    },
+    {
+        "main_category": "Bonds",
+        "question": "He asks for two months' bond",
+        "answer": "The intended use of the property as a dwelling must not only be paramount but must also serve to satisfy the tenant's permanent housing needs (art. 2 LAU). Consequently, only leases where the tenant is a natural person can be considered as residential leases, not when the tenant is a legal entity. Hence, the bond to be deposited in this latter case will be two monthly rental payments.",
+        "id": "0014"
+    },
+    {
+        "main_category": "Bonds",
+        "question": "What amount of bond do I need to deposit?",
+        "answer": "In habitual housing lease contracts, one month's rent. You can find more information in question 6 of the frequently asked questions: https:\/\/incasol.gencat.cat\/ca\/2-serveis_i_tramits\/Fiances-de-lloguers\/informacio\/preguntes-mes-frequents\/",
+        "id": "0011"
+    },
+    {
+        "main_category": "Bonds",
+        "question": "How can I obtain the control or registration number of my bond to process the refund?",
+        "answer": "You can find it at this link: https:\/\/fiances.incasol.cat:8443\/tramits\/Fiances\/Default.aspx",
+        "id": "0001"
+    },
+    {
+        "main_category": "Bonds",
+        "question": "I want to know if my bond is deposited.",
+        "answer": "You can find it at this link: https:\/\/fiances.incasol.cat:8443\/tramits\/Fiances\/Default.aspx",
+        "id": "0002"
+    },
+    {
+        "main_category": "Bonds",
+        "question": "I want to know if the property has been rented out in the last 5 years (requests for legitimate interest).",
+        "answer": "You can find it at this link: https:\/\/incasol.gencat.cat\/ca\/2-serveis_i_tramits\/Fiances-de-lloguers\/altres-serveis\/sol.licituds\/\\n Specifically, in the section 'Request for data from the Bond Register.'",
+        "id": "0005"
+    },
+    {
+        "main_category": "Bonds",
+        "question": "What is the deadline for depositing the bond?",
+        "answer": "The bond must be deposited within two months from the date of signing the lease agreement (article 3 of Law 13\/1996). After the established two-month period, in accordance with article 12 bis of Law 13\/1996, as amended by Law 26\/2009, of December 23, on fiscal, financial, and administrative measures, the following surcharges apply to the amount of the legal bond: 5% if delayed up to 3 months, 10% for delays between 3 and 6 months, 15% for delays between 6 and 12 months, 20% for delays exceeding 12 months (in this last case, late payment interests accruing from the deadline established for depositing the bond apply). In any case, the maximum amount of the late surcharge (excluding interests) cannot exceed 1,500€.",
+        "id": "0010"
+    },
+    {
+        "main_category": "Bonds",
+        "question": "Do I need to update the bond, how do I do it?",
+        "answer": "If a new contract is signed - request a refund of the previous bond and deposit the new one in full. If the contract is maintained, the bond update process must be carried out - link to the update help file (not yet posted on the website).",
+        "id": "0017"
+    },
+    {
+        "main_category": "Bonds",
+        "question": "How and where can I request the bond refund?",
+        "answer": "Bond refunds. Catalan Land Institute (gencat.cat) Section 'Procedure by internet and in-person procedure.' For online procedure, see interactive tutorial and help file How is the bond refund procedure carried out? -PDF available at: Devolució de fiances (requires digital identification). Catalan Land Institute (gencat.cat) Note: individuals obligated to interact with the Administration electronically only have the option to carry out procedures online. See FAQ Frequently Asked Questions. Catalan Land Institute (gencat.cat), Question 2: Do I have to perform my bond procedures electronically?",
+        "id": "0007"
+    },
+    {
+        "main_category": "Bonds",
+        "question": "How and where is the bond deposited?",
+        "answer": "For more information about bond deposits, you can check this page: https:\/\/incasol.gencat.cat\/ca\/2-serveis_i_tramits\/Fiances-de-lloguers\/informacio\/diposit-de-fiances\/. To access specialized information, specify 'In-person procedure' or 'Online procedure.'",
+        "id": "0006"
+    },
+    {
+        "main_category": "Bonds",
+        "question": "In-person procedure",
+        "answer": "To carry out an in-person procedure, you must go to the Chambers of Urban Property and OAC. To perform the in-person procedure at Incasòl, you need to come with the online recorded Model 2 form. Note: individuals obligated to interact with the Administration electronically only have the option to perform procedures online. See FAQ Frequently Asked Questions. Catalan Land Institute (gencat.cat) - Question 2: Do I have to perform my bond procedures electronically?",
+        "id": "00061"
+    },
+    {
+        "main_category": "Bonds",
+        "question": "Online procedure",
+        "answer": "For the online procedure, refer to the interactive tutorial and help file How is the bond deposit procedure carried out? -PDF available at: https:\/\/incasol.gencat.cat\/ca\/2-serveis_i_tramits\/Fiances-de-lloguers\/tramits-en-linia\/diposit-de-fiances-cal-identificacio-digital\/",
+        "id": "00062"
+    },
+    {
+        "main_category": "Certificate",
+        "question": "What if I don't have an electronic certificate?",
+        "answer": "How do you want to carry out the procedure? If it's online, access the following link: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/informacio/certificat-i-identificacio-digital/. For in-person, you will have to come to Incasol's offices.",
+        "id": "0008"
+    },
+    {
+        "main_category": "Certificate",
+        "question": "Can I carry out the procedure with my certificate if I'm not the owner?",
+        "answer": "Yes. The person performing the procedure can be a third party with digital identification.",
+        "id": "0009"
+    },
+    {
+        "main_category": "Contract and Bond",
+        "question": "I signed a lease contract for a room, what do I need to do with the bond?",
+        "answer": "The obligation to provide a bond is provided for in Article 36 of the Urban Leases Law. Contrary to this, the Civil Code, when regulating the lease of real estate, does not mention the tenant's obligation to deliver a bond to the landlord. Consequently, if we understand that the room contract is subject to the Civil Code, the provision of a bond will not be legally enforceable, and this decision remains within the autonomy of the contracting parties.",
+        "id": "0012"
+    },
+    {
+        "main_category": "Contract and Bond",
+        "question": "We have changed the tenant in the contract, do we need to recover the bond?",
+        "answer": "If a new contract is signed, you need to request the refund of the previous bond and deposit the new one. If the contract is maintained and a tenant change document is made, you do not need to recover the bond, but you must notify Incasol by sending an email to fiances.ingressos@gencat.cat indicating the NC (Number of Control of the income document) or the bond registration number.",
+        "id": "0015"
+    },
+    {
+        "main_category": "Property and Bond",
+        "question": "I have bought or inherited a property. What do I need to do with the bond?",
+        "answer": "In general, you need to provide the current Informative Note from the Property Register stating the new owner's name and their ID, CIF, or NIE, and indicate the Control Number (NC) of the income form (Model 2) or the bond registration number through any of the following ways: By email, in a PDF file attachment, By postal mail, addressed to INCASÒL. If the lease agreement has expired, and you wish to request the bond refund: You must first send the current Informative Note by email to the bond refund mailbox. Once the change of ownership has been processed by the Bonds Coordination (approximately four business days), you can start the online bond refund procedure.",
+        "id": "0016"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "main_category": "Fiances",
+        "question": "Sóc un llogater i he marxat del pis i el propietari no em torna la fiança DSB",
+        "answer": "Com a part del contracte podeu fer la Consulta sobre l'estat de la fiança per conèixer si la fiança es va dipositar a l'Incasòl durant la vigència del contracte. A més, podreu reclamar l'import de la fiança iniciant accions judicials contra la part arrendadora. Pel que fa a aquestes últimes, i com a norma general, la reclamació de la fiança a l'arrendador per part de l'arrendatari es realitza a través del judici verbal sempre que la reclamació no sigui superior als 6.000€. La demanda corresponent s'haurà de presentar davant del tribunal de la localitat on estigui situada la finca arrendada.",
+        "id": "0013"
+    },
+    {
+        "main_category": "Fiances",
+        "question": "Em demana dos mesos de fiança i vull ingresar un (cas arrendatari persona jurídica)",
+        "answer": "El destí de l'immoble com a habitatge no només ha de ser primordial, sinó que, a més, ha de servir per satisfer la necessitat permanent d'habitatge de l’arrendatari (art. 2 LAU). En conseqüència, només es pot conceptuar com a arrendament d'habitatge aquell en què l'arrendatari sigui una persona física, no quan l'arrendatari sigui una persona jurídica, raó per la qual la fiança a dipositar en aquest últim supòsit serà de dues mensualitats de renda.",
+        "id": "0014"
+    },
+    {
+        "main_category": "Fiances",
+        "question": "Quin import de fiança he d'ingressar?",
+        "answer": "En els contractes d’arrendament d’habitatge habitual, una mensualitat de la renda. Pots trobar més informació a la pregunta 6 de les preguntes freqüents: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/informacio/preguntes-mes-frequents/",
+        "id": "0011"
+    },
+    {
+        "main_category": "Fiances",
+        "question": "Com puc obtenir el número de control o de registre de la meva fiança per poder tramitar la devolució?",
+        "answer": "Pots trobar-ho en aquest link: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx",
+        "id": "0001"
+    },
+    {
+        "main_category": "Fiances",
+        "question": "Vull saber si la meva fiança està dipositada",
+        "answer": "Pots trobar-ho en aquest link: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx",
+        "id": "0002"
+    },
+    {
+        "main_category": "Fiances",
+        "question": "Vull saber si la finca ha estat llogada els darrers 5 anys (peticions interès legítim)",
+        "answer": "Pots trobar-ho en aquest link: https:\/\/incasol.gencat.cat\/ca\/2-serveis_i_tramits\/Fiances-de-lloguers\/altres-serveis\/sol.licituds\/\\\\n Justament a l'apartat Sol·licitud de dades del Registre de Fiances.",
+        "id": "0005"
+    },
+    {
+        "main_category": "Fiances",
+        "question": "De quin termini disposo per dipositar la fiança",
+        "answer": "La fiança s'ha de dipositar en el termini de dos mesos a comptar des de la data de signatura del contracte d'arrendament (article 3 de la Llei 13\/1996). Transcorregut el termini establert de dos mesos de conformitat amb l'article 12 bis de la Llei 13\/1996 d'acord amb la redacció donada per la Llei 26\/2009 del 23 de desembre de mesures fiscals financeres i administratives s'apliquen els recàrrecs següents sobre l'import de la fiança legal: El 5% si no supera els 3 mesos de demora el 10% si la demora és d'entre 3 i 6 mesos el 15% si la demora és d'entre 6 i 12 mesos el 20% si la demora supera els 12 mesos (en aquest íltim cas s'apliquen els interessos de demora que s'hagin meritat a comptar des del termini establert per dipositar la fiança). En qualsevol cas l'import màxim del recàrrec de demora (no inclosos els interessos) no pot superar els 1.500 euros.",
+        "id": "0010"
+    },
+    {
+        "main_category": "Fiances",
+        "question": "He d'actualitzar la fiança com ho faig?",
+        "answer": "Si s'ha signat un nou contracte - cal demanar devolució de la fiança anterior i dipositar-ne íntegrament la nova. Si es manté el contracte cal fer el tràmit d'actualització de la fiança - enllaç arxiu ajuda actualització (encara no penjat al web)",
+        "id": "0017"
+    },
+    {
+        "main_category": "Fiances",
+        "question": "Com i on puc demanar la devolució de la fiança",
+        "answer": "Devolució de fiances. Institut Català del Sòl (gencat.cat) Apartat Tràmit per internet i tràmit presencial Per tràmit per internet veure tutorial interactiu  i arxiu ajuda Com es realitza el tràmit de devolució de fiances? -pdf que es troba a: Devolució de fiances (cal identificació digital). Institut Català del Sòl (gencat.cat) Nota: s'ha de tenir present que les persones obligades a relacionar-se amb l'Administració telemàticament només han de tenir l'opció de fer els tràmits per internet Veure FAQ Preguntes més freqüents. Institut Català del Sòl (gencat.cat) Pregunta 2: He de fer els meus tràmits de fiances de forma electrònica.",
+        "id": "0007"
+    },
+    {
+        "main_category": "Fiances",
+        "question": "Com es fa el dipòsit de fiança",
+        "answer": "Per obtenir més informació sobre dipòsits de fiances pots consultar aquesta pàgina: https:\/\/incasol.gencat.cat\/ca\/2-serveis_i_tramits\/Fiances-de-lloguers\/informacio\/diposit-de-fiances\/. Per accedir a informació especialitzada, indica'm-ho amb un 'Tràmit presencial' o 'Tràmit online'",
+        "id": "0006"
+    },
+    {
+        "main_category": "Fiances",
+        "question": "Tràmit presencial",
+        "answer": "Per a realitzar un tràmit presencial, t'has de dirigir a les Cambres de la Propietat Urbana i OAC. Per a realitzar el tràmit presencial a l’Incasòl, cal venir amb el formulari model 2 gravat online. Nota: s’ha de tenir present que les persones obligades a relacionar-se amb l’Administració telemàticament només han de tenir l’opció de fer els tràmits per internet. Veure FAQ Preguntes més freqüents. Institut Català del Sòl (gencat.cat) – Pregunta 2: He de fer els meus tràmits de fiances de forma electrònica.",
+        "id": "00061"
+    },
+    {
+        "main_category": "Fiances",
+        "question": "Tràmit online",
+        "answer": "Per tràmit per internet, veure tutorial interactiu i arxiu ajuda. Com es realitza el tràmit de dipòsit de fiances? PDF que es troba a: https:\/\/incasol.gencat.cat\/ca\/2-serveis_i_tramits\/Fiances-de-lloguers\/tramits-en-linia\/diposit-de-fiances-cal-identificacio-digital\/",
+        "id": "00062"
+    },
+    {
+        "main_category": "Certificat",
+        "question": "Què passa si no tinc certificat electrònic",
+        "answer": "De quina forma vols realitzar el tràmit? Si és online, accedeix al següent enllaç: https:\/\/incasol.gencat.cat\/ca\/2-serveis_i_tramits\/Fiances-de-lloguers\/informacio\/certificat-i-identificacio-digital\/. De forma presencial, hauràs de venir a les oficines d'Incasòl.",
+        "id": "0008"
+    },
+    {
+        "main_category": "Certificat",
+        "question": "Puc realitzar el tràmit amb el meu certificat si no sóc propietari",
+        "answer": "Sí. La persona que realitza el tràmit pot ser un tercer que disposi d’identificació digital",
+        "id": "0009"
+    },
+    {
+        "main_category": "Còpia Contracte",
+        "question": "Necessito obtenir una còpia del contracte",
+        "answer": "Has d'accedir al següent enllaç: https:\/\/incasol.gencat.cat\/ca\/2-serveis_i_tramits\/Fiances-de-lloguers\/altres-serveis\/sol.licituds\/. És important marcar la opció de 'Sol·licito una còpia del contracte d'arrendament' en el formulari.",
+        "id": "0004"
+    },
+    {
+        "main_category": "Certificat i Fiança",
+        "question": "Necessito presentar davant un organisme un certificat sobre l’estat de la fiança",
+        "answer": "Has d'accedir al següent enllaç: https:\/\/incasol.gencat.cat\/ca\/2-serveis_i_tramits\/Fiances-de-lloguers\/altres-serveis\/sol.licituds\/. Aquest enllaç es troba en el Apartat certificat informatiu de la fiança.",
+        "id": "0003"
+    },
+    {
+        "main_category": "Contracte i Fiança",
+        "question": "He signat un contracte de lloguer d’una habitació, què he de fer amb la fiança?",
+        "answer": "L’obligatorietat de prestar fiança està prevista a l’article 36 de la Llei d’Arrendaments Urbans. Contràriament a això, el Codi Civil, quan regula l’arrendament de béns immobles, no diu res respecte a l’obligatorietat de l’arrendatari de lliurar fiança a l’arrendador. En conseqüència, en el cas que entenguem que el contracte d’habitació estigui subjecte al Codi Civil, la prestació de fiança no serà exigible per llei, quedant aquesta decisió en l’esfera de l’autonomia de la voluntat de les parts contractants.",
+        "id": "0012"
+    },
+    {
+        "main_category": "Contracte i Fiança",
+        "question": "Hem canviat l’arrendatari del contracte, cal recuperar la fiança?",
+        "answer": "Si es signa un nou contracte, cal demanar la devolució de la fiança del contracte anterior i dipositar-ne la nova. Si es manté el contracte i es fa un document de canvi d’arrendatari, no s’ha de recuperar la fiança, però s’ha de notificar a l’Incasòl enviant mail a fiances.ingressos@gencat.cat indicant NC (Número de control del document d’ingrés) o número de registre de la fiança.",
+        "id": "0015"
+    },
+    {
+        "main_category": "Finca i Fiança",
+        "question": "He comprat o heretat una finca. Què he de fer amb la fiança?",
+        "answer": "Amb caràcter general, cal aportar la Nota Simple informativa actual del Registre de la Propietat.",
+        "id": "0001"
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "main_category": "Fianzas", 
+        "question": "Soy un inquilino y he dejado el piso y el propietario no me devuelve la fianza DSB", 
+        "answer": "Como parte del contrato puedes hacer la Consulta sobre el estado de la fianza, para conocer si la fianza se depositó en el Incasòl durante la vigencia del contrato. Además, podrás reclamar el importe de la fianza iniciando acciones judiciales contra la parte arrendadora. En cuanto a estas últimas, y como norma general, la reclamación de la fianza al arrendador por parte del arrendatario se realiza a través del juicio verbal siempre que la reclamación no sea superior a los 6.000€. La demanda correspondiente deberá presentarse ante el tribunal de la localidad donde esté situada la finca arrendada.", 
+        "id": "0013"
+    }, 
+    {
+        "main_category": "Fianzas", 
+        "question": "Me pide dos meses de fianza y quiero ingresar uno (caso arrendatario persona jurídica)", 
+        "answer": "El destino del inmueble como vivienda no solo debe ser primordial, sino que, además, debe servir para satisfacer la necesidad permanente de vivienda del arrendatario (art. 2 LAU). En consecuencia, solo se puede conceptuar como arrendamiento de vivienda aquel en el que el arrendatario sea una persona física, no cuando el arrendatario sea una persona jurídica, razón por la cual la fianza a depositar en este último supuesto será de dos mensualidades de renta.", 
+        "id": "0014"
+    }, 
+    {
+        "main_category": "Fianzas", 
+        "question": "¿Qué importe de fianza debo ingresar?",
+        "answer": "En los contratos de arrendamiento de vivienda habitual, una mensualidad de la renta. Puedes encontrar más información en la pregunta 6 de las preguntas frecuentes: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/informacio/preguntes-mes-frequents/",
+        "id": "0011"
+    },
+    {
+        "main_category": "Fianzas", 
+        "question": "¿Cómo puedo obtener el número de control o de registro de mi fianza para poder tramitar la devolución?",
+        "answer": "Puedes encontrarlo en este enlace: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx",
+        "id": "0001"
+    },
+    {
+        "main_category": "Fianzas", 
+        "question": "Quiero saber si mi fianza está depositada",
+        "answer": "Puedes encontrarlo en este enlace: https://fiances.incasol.cat:8443/tramits/Fiances/Default.aspx",
+        "id": "0002"
+    },
+    {
+        "main_category": "Fianzas", 
+        "question": "Quiero saber si la finca ha sido alquilada los últimos 5 años (peticiones interés legítimo)",
+        "answer": "Puedes encontrarlo en este enlace: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/ Justamente en el apartado Solicitud de datos del Registro de Fianzas.",
+        "id": "0005"
+    },
+    {  
+        "main_category": "Fianzas", 
+        "question": "¿De qué plazo dispongo para depositar la fianza?",
+        "answer":"La fianza debe depositarse en el plazo de dos meses a contar desde la fecha de firma del contrato de arrendamiento (artículo 3 de la Ley 13/1996). Transcurrido el plazo establecido de dos meses, de conformidad con el artículo 12 bis de la Ley 13/1996, de acuerdo con la redacción dada por la Ley 26/2009, del 23 de diciembre, de medidas fiscales, financieras y administrativas, se aplican los recargos siguientes sobre el importe de la fianza legal: El 5% si no supera los 3 meses de demora, el 10% si la demora es de entre 3 y 6 meses, el 15% si la demora es de entre 6 y 12 meses, el 20% si la demora supera los 12 meses (en este último caso, se aplican los intereses de demora que se hayan merecido a contar desde el plazo establecido para depositar la fianza). En cualquier caso, el importe máximo del recargo de demora (no incluidos los intereses) no puede superar los 1.500 euros",
+        "id": "0010" 
+    },
+    {  
+        "main_category": "Fianzas", 
+        "question": "¿Necesito actualizar la fianza, cómo lo hago?",
+        "answer":"Si se ha firmado un nuevo contrato, debes solicitar la devolución de la fianza anterior y depositar íntegramente la nueva. Si se mantiene el contrato, debes realizar el trámite de actualización de la fianza - enlace archivo ayuda actualización (aún no colgado en la web)",
+        "id": "0017"
+    },
+    {  
+        "main_category": "Fianzas", 
+        "question": "¿Cómo y dónde puedo solicitar la devolución de la fianza?",
+        "answer":"Devolución de fianzas. Instituto Catalán del Suelo (gencat.cat) Apartado Trámite por internet y trámite presencial. Para el trámite por internet, consulta el tutorial interactivo y el archivo de ayuda ¿Cómo se realiza el trámite de devolución de fianzas? –pdf que se encuentra en: Devolución de fianzas (se necesita identificación digital). Instituto Catalán del Suelo (gencat.cat) Nota: debes tener en cuenta que las personas obligadas a relacionarse con la Administración telemáticamente, solo deben tener la opción de realizar los trámites por internet. Consulta las FAQ Preguntas más frecuentes. Instituto Catalán del Suelo (gencat.cat), Pregunta 2: ¿Debo realizar mis trámites de fianzas de forma electrónica?",
+        "id": "0007"
+    },
+    {  
+        "main_category": "Fianzas", 
+        "question": "¿Cómo y dónde se hace el depósito de fianza?",
+        "answer":"Para obtener más información sobre depósitos de fianzas puedes consultar esta página: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/informacio/diposit-de-fiances/. Para acceder a información especializada, indícamelo con un 'Trámite presencial' o 'Trámite online'",
+        "id": "0006"
+    }, 
+    {
+        "main_category": "Fianzas",
+        "question": "Trámite presencial",
+        "answer": "Para realizar un trámite presencial debes dirigirte a las Cámaras de la Propiedad Urbana y OAC. Para realizar el trámite presencial en el Incasòl, debes venir con el formulario modelo 2 grabado online. Nota: debes tener en cuenta que las personas obligadas a relacionarse con la Administración telemáticamente, solo deben tener la opción de realizar los trámites por internet. Consulta las FAQ Preguntas más frecuentes. Instituto Catalán del Suelo (gencat.cat) –  Pregunta 2: ¿Debo realizar mis trámites de fianzas de forma electrónica?",
+        "id": "00061"
+    },
+    {
+        "main_category": "Fianzas",
+        "question": "Trámite online",
+        "answer": "Para el trámite por internet, consulta el tutorial interactivo y el archivo de ayuda ¿Cómo se realiza el trámite de depósito de fianzas? –pdf que se encuentra en: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/tramits-en-linia/diposit-de-fiances-cal-identificacio-digital/",
+        "id": "00062"
+    },
+    {
+        "main_category": "Certificado",
+        "question": "¿Qué pasa si no tengo certificado electrónico?",
+        "answer": "¿De qué manera quieres realizar el trámite? Si es online, accede al siguiente enlace: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/informacio/certificat-i-identificacio-digital/. De forma presencial, tendrás que venir a las oficinas de Incasòl.",
+        "id": "0008"
+    },
+    {
+        "main_category": "Certificado",
+        "question": "¿Puedo realizar el trámite con mi certificado si no soy propietario?",
+        "answer": "Sí. La persona que realiza el trámite puede ser un tercero que disponga de identificación digital",
+        "id": "0009"
+    },
+    {
+        "main_category": "Copia Contrato",
+        "question": "Necesito obtener una copia del contrato",
+        "answer": "Debes acceder al siguiente enlace: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/. Es importante marcar la opción de Solicito una copia del contrato de arrendamiento en el formulario.",
+        "id": "0004"
+    },
+    {
+        "main_category": "Certificado y Fianza",
+        "question": "Necesito presentar ante un organismo un certificado sobre el estado de la fianza",
+        "answer": "Debes acceder al siguiente enlace: https://incasol.gencat.cat/ca/2-serveis_i_tramits/Fiances-de-lloguers/altres-serveis/sol.licituds/ este enlace se encuentra en el Apartado certificado informativo de la fianza.",
+        "id": "0003"
+    },
+    {
+        "main_category": "Contrato y Fianza",
+        "question": "He firmado un contrato de alquiler de una habitación, ¿qué debo hacer con la fianza?", 
+        "answer": "La obligatoriedad de prestar fianza está prevista en el artículo 36 de la Ley de Arrendamientos Urbanos. Contrariamente a esto, el Código Civil, cuando regula el arrendamiento de bienes inmuebles, no dice nada respecto a la obligatoriedad del arrendatario de entregar fianza al arrendador. En consecuencia, en el caso de que entendamos que el contrato de habitación esté sujeto al Código Civil, la prestación de fianza no será exigible por ley, quedando esta decisión en la esfera de la autonomía de la voluntad de las partes contratantes.",
+        "id": "0012"
+    },
+    {
+        "main_category": "Contrato y Fianza",
+        "question": "Hemos cambiado el arrendatario del contrato, ¿es necesario recuperar la fianza?",
+        "answer": "Si se firma un nuevo contrato, se debe solicitar la devolución de la fianza del contrato anterior y depositar la nueva. Si se mantiene el contrato y se hace un documento de cambio de arrendatario, no se tiene que recuperar la fianza pero se tiene que notificar a Incasòl enviando un correo a fiances.ingressos@gencat.cat indicando NC (Número de control del documento de ingreso) o número de registro de la fianza",
+        "id": "0015"
+    },
+    {
+        "main_category": "Finca y Fianza",
+        "question": "He comprado o heredado una finca. ¿Qué debo hacer con la fianza?",
+        "answer": "Con carácter general, se debe aportar la Nota Simple informativa actual del Registro de la Propiedad donde conste la nueva persona titular y su DNI, CIF o NIE, e indicar el Número de Control (NC) del formulario de ingreso (Modelo 2) o el Número de Registro de la fianza, por cualquiera de las siguientes vías: Por correo electrónico, en un archivo adjunto en formato PDF, Por correo postal, dirigido al INCASÒL. Si el contrato de arrendamiento se ha extinguido y deseas solicitar la devolución de la fianza: Previamente deberás enviar la Nota Simple informativa actual por correo electrónico a la bandeja de Devoluciones de fianzas. Una vez efectuado el cambio de titularidad por la Coordinación de Fianzas (cuatro días hábiles, aproximadamente), podrás iniciar el trámite en línea de la Devolución de fianza",
+        "id": "0016"
+    }
+]
+
+
+
+    
