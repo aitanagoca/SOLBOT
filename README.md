@@ -1,6 +1,6 @@
 # SÒLBOT (CHATBOT FOR INCASSÒL)
 
-## EXECUTIVE SUMMARY AND BACKGROUND
+## ***EXECUTIVE SUMMARY AND BACKGROUND***
 
 La implementació i gestió de Chatbots és un element tecnològic que, aplicat a solucions d’índols molt diverses, està donant molt bons resultats avui en dia, pel qual penso que INCASÒL en pot treure partit.
 
