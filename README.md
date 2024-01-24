@@ -2,9 +2,9 @@
 
 ### - EXECUTIVE SUMMARY AND BACKGROUND -
 
-La implementació i gestió de Chatbots és un element tecnològic que, aplicat a solucions d’índols molt diverses, està donant molt bons resultats avui en dia, pel qual penso que INCASÒL en pot treure partit.
+La implementació i gestió de Chatbots és un element tecnològic que, aplicat a solucions d’índols molt diverses, està donant molt bons resultats avui en dia, pel qual pensem que INCASÒL en pot treure partit.
 
-M'agradaria aprofundir en aquest aspecte i desenvolupar per INCASÒL una solució d’interacció al usuari millorada, eficient, adaptable i escalable i basada en la innovació.
+Ens agradaria aprofundir en aquest aspecte i desenvolupar per INCASÒL una solució d’interacció al usuari millorada, eficient, adaptable i escalable i basada en la innovació.
 
 Així doncs, el projecte s'enfoca en proporcionar un servei eficient d'atenció al client per a consultes relacionades amb la gestió de problemes i incidències simples. 
 
