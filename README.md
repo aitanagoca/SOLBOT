@@ -1,4 +1,4 @@
-# SÒLBOT (CHATBOT FOR INCASSÒL)
+# SÒLBOT - Chatbot for INCASÒL
 
 ## Executive Summary & Background
 
