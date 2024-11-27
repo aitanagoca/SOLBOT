@@ -18,19 +18,19 @@ Este proyecto utiliza **Streamlit** para implementar la interfaz gráfica. Para 
 
 Descarga el código del proyecto desde este repositorio utilizando el siguiente comando:
 
-  git clone https://github.com/aitanagoca/SOLBOT.git
+    git clone https://github.com/aitanagoca/SOLBOT.git
 
 **2. Instala Streamlit:**
 
 Asegúrate de tener Streamlit instalado. Si no lo tienes, instálalo con el siguiente comando:
 
-  pip install streamlit
+    pip install streamlit
 
 **3. Ejecuta la aplicación:**
 
 Una vez que todo esté configurado, para iniciar la interfaz gráfica, ves a la carpeta donde se encuentre el código (en este caso, "SÒLBOT"), abre una terminal en esta y ejecuta:
 
-  streamlit run SolbotFinal.py
+    streamlit run SolbotFinal.py
 
 EL archivo SolbotFinal.py es el nombre del archivo principal del proyecto.
 
